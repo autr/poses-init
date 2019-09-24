@@ -1,0 +1,7 @@
+*.qbs
+*.qbs.user
+bin/*.app
+.DS_Store
+*.xcconfig
+*.plist
+*.xcodeproj/
